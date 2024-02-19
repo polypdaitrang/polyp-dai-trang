@@ -1,26 +1,25 @@
 
-NGUYÊN NHÂN ĐAU NHỨC XƯƠNG KHỚP
+POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
 ==================================================
 
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(17).jpg
-
-.. _nguyennhan:
+.. _polypdaitrang:
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   nguyen-nhan-den-dau-nhuc-xuong-khop
+   polyp-dai-trang
    
+.. image:: /img/polyp-dai-trang-la-gi.jpg
 
-.. _cachchuadauxuongkhop:
+.. _chuapolypdaitrangbangthuocnam:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: CÁCH CHỮA ĐAU XƯƠNG KHỚP BẰNG THẢO DƯỢC
+   :caption: CÁCH CHỮA POLYP ĐẠI TRÀNG BẰNG THUỐC NAM
 
-   cach-chua-dau-xuong-khop
+   chua-polyp-dai-trang-bang-thuoc-nam
 
 .. _mebau:
 
