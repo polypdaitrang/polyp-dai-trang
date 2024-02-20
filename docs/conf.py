@@ -43,13 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-<<<<<<< HEAD
-project = u'Polyp Đại Tràng'
-copyright = u'2024, Polyp Đại Tràng'
-=======
-project = u'Thuốc Xương Khớp'
-copyright = u'2020, Thuôc Xương Khớp'
->>>>>>> e27e598 (first commit 1)
+project = u' Polyp Đại Tràng'
+copyright = u'2024, Thảo mộc HHT'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -239,7 +234,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
-     [u'Read the Docs'], 1)
+     [u'Read the Docs 1'], 1)
 ]
 
 # If true, show URL addresses after external links.
