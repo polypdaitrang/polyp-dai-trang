@@ -1,7 +1,8 @@
-Healthy and Happy Lifestyle
+Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
 ========
 
-- Enjoy your life!
 
-.. note:: Liên hệ Ms.Trang - Điện thoại: 0933764566
-.. image:: /img/yen06.jpg
+.. note:: Liên hệ Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
+.. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
+    :alt: "mot so san pham cua thao moc hht"
+    :align: center

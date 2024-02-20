@@ -1,9 +1,10 @@
-Ms.Minh 0914360695
+Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
 -------
 
-.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
-.. image:: /img/yen06.jpg
-
+.. note:: Liên hệ Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
+.. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
+    :alt: "mot so san pham cua thao moc hht"
+    :align: center
 
 
 
