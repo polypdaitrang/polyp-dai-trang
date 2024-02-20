@@ -1,1 +1,1 @@
-.. include:: ../cachchuadauxuongkhop.rst
+.. include:: ../chuapolypdaitrangbangthuocnam.rst

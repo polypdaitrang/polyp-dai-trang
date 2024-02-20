@@ -7,6 +7,7 @@ POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: POLYP ĐẠI TRÀNG
 
    polyp-dai-trang
    
@@ -91,6 +92,8 @@ POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
    
    
 
-.. note:: Liên hệ Thảo mộc HHT - Điện thoại: 0964.421.551  hoặc 0932.340.345
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
+.. note:: Liên hệ Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
+.. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
+    :alt: "mot so san pham cua thao moc hht"
+    :align: center
 
