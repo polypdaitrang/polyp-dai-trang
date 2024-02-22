@@ -16,7 +16,7 @@ POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
 .. _chuapolypdaitrangbangthuocnam:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
    :caption: CÁCH CHỮA POLYP ĐẠI TRÀNG BẰNG THUỐC NAM
 
