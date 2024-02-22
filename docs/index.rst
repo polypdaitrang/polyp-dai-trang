@@ -7,7 +7,7 @@ POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+   :caption: 
 
    polyp-dai-trang
    
