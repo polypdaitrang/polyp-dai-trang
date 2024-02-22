@@ -1,72 +1,54 @@
-CÁCH CHỮA POLYP ĐẠI TRÀNG BẰNG THUỐC NAM
+CÁCH CHỮA POLYP TRỰC TRÀNG BẰNG THUỐC NAM
 ===============
 
-1. Polyp đại tràng được phát hiện khi nào
+1. Polyp trực tràng
 ---------------
-Polyp đại tràng thường không gây ra triệu chứng. Việc sàng lọc đều đặn rất quan trọng vì polyp đại tràng được phát hiện sớm thường có thể được loại bỏ một cách an toàn và hoàn toàn. Phương pháp phòng ngừa ung thư đại tràng tốt nhất là thực hiện sàng lọc và loại bỏ polyp đều đặn.
+Trong đại tràng được chia ra các vị trí, như manh tràng, đại tràng lên, đại tràng ngang, đại tràng xuống, đại tràng sigma, và trực tràng, chính là đoạn nối đại tràng sigma và hậu môn thì gọi là trực tràng.
 
-Hầu hết những người mắc polyp đại tràng thường không có triệu chứng. Bạn có thể không biết mình mắc polyp đại tràng cho đến khi nhà cung cấp dịch vụ chăm sóc sức khỏe kiểm tra đại tràng của bạn và phát hiện ra polyp.
-
-Tuy nhiên, một số người mắc polyp đại tràng có thể gặp phải các dấu hiệu sau:
-
-+ Thay đổi trong thói quen điều tiết.
-
- Táo bón hoặc tiêu chảy kéo dài hơn một tuần có thể cho thấy sự hiện diện của polyp đại tràng lớn hoặc ung thư. Tuy nhiên, nhiều tình trạng bệnh lý khác cũng có thể gây ra thay đổi trong thói quen điều tiết.
-
-+ Phân đen hoặc có máu trong phân: 
-
-Có thể có vết máu hoặc máu trong phân, làm phân trở nên đen màu. Sự thay đổi màu sắc của phân cũng có thể do một số loại thực phẩm, thuốc hoặc thực phẩm bổ sung gây ra.
-
-Nếu loại trừ các bệnh về hậu môn như trĩ và rách hậu môn nhỏ thì máu trong phân có thể là dấu hiệu của polyp đại tràng (hoặc bệnh viêm ruột Crohn). 
-
-Máu có thể xuất hiện dưới dạng vệt đỏ trong phân hoặc làm phân có màu đen. Tất nhiên, một số loại thực phẩm, thuốc hoặc sản phẩm y tế cũng có thể gây ra sự thay đổi màu sắc của phân, cần phải xác định thêm.
-
-+ Thiếu máu thiếu sắt.
-
- Polyp có thể gây ra chảy máu chậm theo thời gian mà không có máu rõ ràng trong phân. Chảy máu mãn tính có thể dẫn đến thiếu máu do thiếu sắt, khiến người bệnh cảm thấy mệt mỏi và khó thở.
-
-+ Biểu hiện Đau. 
-
-Polyp đại tràng lớn hơn có thể gây ra đau bụng do chặn kẹp một phần của ruột. Hoặc đau tại vị trí có polyp, khi ấn tay vào thấy đau. Nhiều người bị đến mức này mới đi khám và phát hiện ra polyp. Tôi từng chữa vài trường hợp như vậy mà dùng thuốc nam khỏi đấy.
-
-+ Chảy máu từ trực tràng.
-
- Đây có thể là dấu hiệu của polyp đại tràng, ung thư hoặc các tình trạng bệnh lý khác, chẳng hạn như bệnh trĩ hoặc vết rách nhỏ ở hậu môn.
+Tại vị trí đoạn trực tràng này có polyp thì goi là polyp trực tràng. Tương tự như vậy đoạn sigma mà có polyp thì cũng gọi là polyp sigma.
 
 
-.. image:: /img/polyp-dai-trang-la-gi.jpg
-   :alt: "polyp-dai-trang-la-gi"
+Polyp trực tràng là các tổn thương nổi lên trên bề mặt niêm mạc của trực tràng, thường nhô vào lòng ruột. 
+
+Chúng chủ yếu xuất hiện ở phần dưới của trực tràng và thường có hình tròn, cuống mảnh, được tạo thành từ niêm mạc và các tuyến, nối liền với thành ruột. Một số polyp có thể rộng và không có cuống. 
+
+Thông thường, chúng xuất hiện đơn độc, nhưng cũng có một số trường hợp đa dạng. Polyp trực tràng thường được phân loại thành các loại khác nhau như polyp viêm, polyp tăng sản, polyp tuyến và polyp hamartomatous. 
+
+Mặc dù polyp tuyến có thể trở nên ác tính, nhưng trường hợp này hiếm gặp ở trẻ em. Polyp trực tràng là một trong những nguyên nhân phổ biến của tình trạng đại tiện ra máu ở trẻ em, đặc biệt khi một số polyp phát triển gần ống hậu môn và có thể bị đẩy ra ngoài sau khi đại tiện.
+
+Về cách chữa bằng thảo dược tại thảo mộc hht thì các polyp ở các vị trí đều như nhau cả, đều được coi là khối u trong đường ruột.
+
+
+.. image:: /img/Polyp-truc-trang.jpg
+   :alt: "polyp-truc-trang"
    :align: center
 
-2. Làm thế nào để phát hiện polyp ruột?
+2. Làm thế nào để phát hiện polyp trực tràng trong ruột?
 ---------------------------------------
 
-Polyp đại tràng đôi khi không có triệu chứng nên cần sàng lọc định kỳ thường xuyên, chủ yếu dựa vào nội soi. 
+Máu trong phân: Máu xuất hiện trong phân mà không gây đau là biểu hiện chính của polyp trực tràng.
 
-Tỷ lệ phát hiện polyp và u tuyến khi nội soi ở người bình thường là khoảng 30%, tỷ lệ phát hiện polyp cao ở người từ 40-59 tuổi, thông thường nên thực hiện nội soi lần đầu từ độ tuổi 40. 
+Số lượng máu từ polyp thường ít, nhưng khi polyp bị ép hoặc rơi ra trong quá trình đại tiện, đặc biệt là khi polyp lớn và nằm ở vị trí thấp, có thể gây ra lượng máu lớn hơn. Hiện tượng hematochezia xảy ra khi có máu xuất hiện trong phân mà không có hiện tượng chảy máu.
 
-Theo năm 2020 "Chẩn đoán sớm ung thư đại trực tràng" Theo "Sự đồng thuận của các chuyên gia điều trị", những nhóm người sau đây nên đi kiểm tra:
+Sa ruột: Khi polyp lớn hoặc có nhiều polyp, niêm mạc ruột có thể bị trọng lực kéo dãn, dẫn đến việc tách rời khỏi lớp cơ và sa xuống dưới. Việc kéo dãn trong quá trình đại tiện và kích thích nhu động ruột có thể làm giãn lớp niêm mạc xung quanh cuống rốn, gây ra hiện tượng sa ruột.
 
-+. Từ 40 tuổi trở lên, không phân biệt giới tính;
+Triệu chứng kích ứng đường ruột: Khi polyp bị kéo trong quá trình nhu động ruột, có thể gây ra các triệu chứng kích ứng đường ruột như khó chịu ở bụng, đau bụng, tiêu chảy, phân có máu hoặc mủ, cảm giác mót rặn, và các triệu chứng tương tự.
 
-+. Người hút thuốc và uống rượu lâu ngày;
+Khám trực tràng bằng kỹ thuật số cho thấy một khối tròn, mềm, có kích thước tương đương với hạt đậu, di động và không gây đau. Polyp nằm ở vị trí cao hơn hoặc thấp hơn có thể rất khó phát hiện khi khám trực tràng bằng ngón tay.
 
-+. Gia đình có tiền sử polyp đại trực tràng hoặc ung thư ruột kết;
+Nội soi trực tràng: Polyp tuyến thường có hình dạng tròn, bề mặt niêm mạc thường có màu đỏ nhạt và bóng; polyp viêm thường có cuống dài và màu đỏ; polyp tăng sản thường xuất hiện dưới dạng các nốt sần và nổi lên trên bề mặt niêm mạc.
 
-+. Người đang phẫu thuật cắt túi mật, viêm ruột thừa mãn tính hoặc có tiền sử cắt ruột thừa;
+Kiểm tra bằng thuốc xổ bari có thể tiết lộ các khuyết tật hoặc bất thường trong trực tràng.
 
-+. Người lười vận động trong thời gian dài và có chế độ ăn nhiều chất béo, nhiều muối.
+Kiểm tra mô bệnh học có thể xác định bản chất của polyp và loại polyp đó.
 
-+. Người bị táo bón lâu ngày, tiêu chảy, thay đổi thói quen đại tiện, đau bụng không rõ nguyên nhân, đại tiện ra máu, sụt cân.
-
-+. Bệnh viêm ruột và bệnh polyp gia đình.
-
-Đối với những người có yếu tố nguy cơ cao, cần bắt đầu khám trước 40 tuổi và tăng số lần khám theo yêu cầu của bác sĩ.
-
+.. image:: /img/polyp-dai-trang.jpg
+   :alt: "polyp-truc-trang-cach-chua"
+   :align: center
 
 3. Cách chữa bằng thảo dược
 -----------
-Po lip đại tràng là khối u, là bướu trong đường ruột, nên cách chữa thì bạn có thể chọn lựa can  thiệp bằng y học hiện đại hoặc bạn có thể chọn lựa phương pháp chữa bằng thảo dược.
+Po lip trực tràng là khối u, là bướu trong đường ruột, nên cách chữa thì bạn có thể chọn lựa can  thiệp bằng y học hiện đại hoặc bạn có thể chọn lựa phương pháp chữa bằng thảo dược.
 
 Hoặc cũng có thể chọn lựa bằng y học hiện đại rồi về dùng thảo dược để ngăn ngừa nguy cơ tái phát lại thải được chất độc trong người ra, nên khỏe mạnh và làm được nhiều việc hơn trước.
 
