@@ -1,13 +1,13 @@
 
 POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
-==================================================
+========================================
 
 .. _polypdaitrang:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: POLYP ĐẠI TRÀNG
+   :caption: POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 
    polyp-dai-trang
    
@@ -22,74 +22,16 @@ POLYP ĐẠI TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA
 
    chua-polyp-dai-trang-bang-thuoc-nam
 
-.. _mebau:
+.. _cachchuapolyptructrang
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: MẸ BẦU ĂN YẾN - MẸ KHỎE, CON THÔNG MINH
+   :caption: CÁCH CHỮA POLYP TRỰC TRÀNG BẰNG THUỐC NAM
 
-   03-me-bau-an-yen
+   cach-chua-polyp-truc-trang
 
-.. _4men:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: ĐÀN ÔNG CÓ NÊN DÙNG TỔ YẾN?
-
-   04-dan-ong-nen-dung-yen
-
-.. image:: /img/yen51.jpg
-
-.. _5nguoicaotuoi:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: TỔ YẾN TĂNG CƯỜNG SỨC KHỎE CHO NGƯỜI GIÀ
-
-   05-yen-sao-cho-nguoi-cao-tuoi
-
-.. _6nguoibenh:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: TỔ YẾN ĐỐI VỚI NGƯỜI BỆNH
-
-   06-yen-sao-cho-nguoi-benh
-
-.. _7treem:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: TÁC DỤNG CỦA YẾN SÀO ĐỐI VỚI TRẺ EM
-
-   07-yen-sao-cho-tre-em
-
-.. image:: /img/thuoc-xuong-khop-malaysia-mujarhabat-kapsu-mau-do(9).jpg
-
-.. _question:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: CÁC CÂU HỎI THƯỜNG GẶP VỀ YẾN SÀO
-
-   99-cau-hoi-ve-yen
-   
-   
-.. _xuongkhopth1:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: THUỐC TRỊ ĐAU NHỨC XƯƠNG KHỚP HIỆU QUẢ MÀ AN TOÀN
-
-   thuoc-dau-nhuc-xuong-khop
-   
+.. image:: /img/Polyp-truc-trang.jpg
    
 
 .. note:: Liên hệ Thảo mộc HHT - Điện thoại, zalo: 0964.421.551 - 0932.340.345
